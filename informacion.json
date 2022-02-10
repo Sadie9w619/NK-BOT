@@ -1,13 +1,13 @@
 {
 	"prefijo": ".",
-	"BotControlador": "51948258899@s.whatsapp.net",
+	"BotControlador": "+591 78020614",
         "NumeroBot": "+1 424 336 3920",
 	"CoCreador": "Sadistic",
 	"VCardX": "+51995386439",
 	"VCardY": "+51 995 386 439",
-	"MyPais": "51",
+	"MyPais": "591",
 	"NombreBot": "Viktoria-bot",
-	"LimiteEnGrupos": "2",
-	"LimiteComandos": "666999",
-	"TusRedesSociales": "*~>[Redes sociales...]*\n\n~>[YouTube: ]\n\n~>[Facebook: ]\n\n~>[Otras redes sociales: ]"
+	"LimiteEnGrupos": "3",
+	"LimiteComandos": "200",
+	"TusRedesSociales": "*~>[Redes sociales...]*\n\n~>[YouTube: ]\n\n~>[Facebook: ]\n\n~>[Otras redes sociales: Instagram: Exormel ]"
 }
